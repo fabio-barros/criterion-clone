@@ -1,5 +1,5 @@
 # criterion-clone
-<p> Aplicação de listagem e compras de filmes clássicos e comtemporâneos. </p>
+<p> Aplicação de listagem e compras de filmes clássicos e contemporâneos. </p>
 
 ### ⚙️ Estrutura
 
