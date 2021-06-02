@@ -1,13 +1,12 @@
 # criterion-clone
-<p> Aplicação de listagem e compras de filmes clássicos e contemporâneos. </p>
+<p> Listing and shopping application for classic and contemporary movies, inspired by The Criterion Collection. </p>
 
-### ⚙️ Estrutura
+### ⚙️ Structure
 
-- Client w/ React + Typescript, Redux || Context API🤷 🚧
+- Client w/ React + Typescript, Redux 🚧
 - .NET Core Server API + Cloud Functions 🚧
-- Firebase Firestore 🚧
-- Firebase Hosting  🚧
- 
-### 🛠 Tecnologias
+- Firebase Firestore || MongoDB 🤷🚧
+
+### 🛠 Technologies
 
 ### 🚀 
