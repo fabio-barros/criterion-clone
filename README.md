@@ -4,8 +4,8 @@
 ### ⚙️ Structure
 
 - Client w/ React + Typescript, Redux 🚧
-- .NET Core Server API + Cloud Functions 🚧
-- Firebase Firestore || MongoDB 🤷🚧
+- .NET Core Server API 🚧
+- Postgres, MongoDB 🤷🚧
 
 ### 🛠 Technologies
 
