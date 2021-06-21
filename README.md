@@ -3,6 +3,7 @@
 
 ### ⚙️ Structure
 
+- Admin Page w/ React Admin 🔧👷
 - Client w/ React + Typescript, Redux 🚧
 - .NET Core Server API 🚧
 - Postgres, MongoDB 🤷🚧
