@@ -5,7 +5,7 @@
 
 - Admin Page w/ React Admin 🔧👷
 - Client w/ React + Typescript, Redux 🚧
-- .NET Core Server API 🚧
+- .NET Server-side 🚧
 - Postgres, MongoDB 🤷🚧
 
 ### 🛠 Technologies
